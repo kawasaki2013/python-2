@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
+
 exclude=('.' '..' 'README.md' 'install.sh')
 instdir="$HOME/usr/bin"
 
